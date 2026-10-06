@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2634-minimum-common-value) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2634-minimum-common-value) |
@@ -34,18 +36,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
