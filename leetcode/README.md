@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2556-convert-the-temperature](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2556-convert-the-temperature) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
 |  |
