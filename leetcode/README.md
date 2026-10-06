@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2634-minimum-common-value) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2634-minimum-common-value) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3408-count-the-number-of-special-characters-i) |
 ## Two Pointers
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
+## Counting
+|  |
+| ------- |
+| [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
 <!---LeetCode Topics End-->
