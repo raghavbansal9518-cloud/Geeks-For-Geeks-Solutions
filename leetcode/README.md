@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2634-minimum-common-value) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3408-count-the-number-of-special-characters-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3408-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -32,5 +34,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
