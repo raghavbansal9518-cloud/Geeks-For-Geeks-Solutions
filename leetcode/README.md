@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+| [0812-rotate-string](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0812-rotate-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3408-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0812-rotate-string) |
 <!---LeetCode Topics End-->
