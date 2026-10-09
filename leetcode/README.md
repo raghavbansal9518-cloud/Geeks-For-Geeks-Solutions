@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2634-minimum-common-value) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2634-minimum-common-value) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/3408-count-the-number-of-special-characters-i) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2274-keep-multiplying-found-values-by-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0969-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
