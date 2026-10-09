@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/2274-keep-multiplying-found-values-by-two) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
