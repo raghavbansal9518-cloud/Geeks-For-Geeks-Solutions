@@ -91,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/0175-combine-two-tables) |
+| [1153-product-sales-analysis-i](https://github.com/raghavbansal9518-cloud/Geeks-For-Geeks-Solutions/tree/master/LeetCode/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
